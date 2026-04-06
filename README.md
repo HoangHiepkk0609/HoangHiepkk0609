@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @HoangHiepkk0609
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi, I'm Hiep
 
-<!---
-HoangHiepkk0609/HoangHiepkk0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 React Native Developer  
+📱 Focus on Mobile App Development
+
+### 🚀 Tech Stack
+- React Native
+- Redux Toolkit
+- Firebase / Supabase
+- REST API
+
+### 📱 Featured Projects
+- Expense Manager App
+- News App
+- Music App
+
+### 🎯 Goal
+Become a React Native Developer Intern
